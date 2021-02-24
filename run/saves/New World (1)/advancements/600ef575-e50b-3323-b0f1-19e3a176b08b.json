@@ -1,0 +1,36 @@
+{
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-02-20 08:28:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-02-20 08:28:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-02-20 08:28:14 -0500",
+      "minecraft:beach": "2021-02-20 08:28:27 -0500",
+      "minecraft:river": "2021-02-20 08:28:33 -0500",
+      "minecraft:plains": "2021-02-20 08:28:34 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-20 08:28:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-20 08:28:41 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

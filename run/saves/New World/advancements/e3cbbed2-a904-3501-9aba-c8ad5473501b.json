@@ -1,0 +1,15 @@
+{
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-02-19 18:34:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-02-19 18:34:10 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

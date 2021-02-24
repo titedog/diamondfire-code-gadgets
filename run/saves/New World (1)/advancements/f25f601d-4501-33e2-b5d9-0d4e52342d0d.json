@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-02-20 12:09:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2021-02-20 12:09:22 -0500",
+      "minecraft:taiga": "2021-02-20 12:09:29 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
