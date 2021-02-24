@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="011383c5-621b-4523-9640-a81f7d695218" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/hotbar.nbt" beforeDir="false" afterPath="$PROJECT_DIR$/run/hotbar.nbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-02-23-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-02-23-7.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/DIM-1/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/DIM1/data/raids_end.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/poi/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.-1.1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.0.1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World (1)/region/r.1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World (1)/region/r.1.1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/titedog/codegadgets/render/RenderLocation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/titedog/codegadgets/util/DrawBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/codegadgets.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/codegadgets.mixins.json" afterDir="false" />
-    </list>
+    <list default="true" id="011383c5-621b-4523-9640-a81f7d695218" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +49,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1613599669372</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added VariableTypeUtils, location item coordinate parsing, and fixes.">
+      <created>1614189831189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614189831189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added VariableTypeUtils, location item coordinate parsing, and fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added VariableTypeUtils, location item coordinate parsing, and fixes." />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613602700232">
@@ -118,6 +92,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614175510666" />
+    <state x="516" y="107" key="CommitChangelistDialog2" timestamp="1614189829166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614189829166" />
     <state x="686" y="441" width="558" height="158" key="GitCloneDialog" timestamp="1613608845568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -146,10 +124,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="187" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614184140422" />
-    <state x="440" y="94" width="1040" height="851" key="SettingsEditor" timestamp="1614174429824">
+    <state x="540" y="260" key="IDE.errors.dialog" timestamp="1614190371977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" width="1040" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614174429824" />
+    <state x="540" y="260" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614190371977" />
+    <state x="440" y="94" width="1040" height="851" key="SettingsEditor" timestamp="1614190353977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" width="1040" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614190353977" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614189834635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614189834635" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614175005623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
